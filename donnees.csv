@@ -1,0 +1,37 @@
+﻿mois,annee,region,service,chiffre_affaires,depenses,clients,nouveaux_clients,satisfaction
+Janvier,2025,Cotonou,Formation IA,1800000,792000,22,4,76
+Janvier,2025,Porto-Novo,Développement IA,1080000,528000,14,2,74
+Janvier,2025,Parakou,Cybersécurité,720000,330000,9,2,72
+Février,2025,Cotonou,Développement IA,1925000,825600,24,4,78
+Février,2025,Porto-Novo,Cybersécurité,1155000,550400,14,3,76
+Février,2025,Parakou,Formation IA,770000,344000,10,2,74
+Mars,2025,Cotonou,Cybersécurité,2050000,888000,26,6,79
+Mars,2025,Porto-Novo,Formation IA,1230000,592000,16,3,77
+Mars,2025,Parakou,Développement IA,820000,370000,10,2,75
+Avril,2025,Cotonou,Formation IA,2175000,912000,28,6,81
+Avril,2025,Porto-Novo,Développement IA,1305000,608000,16,4,79
+Avril,2025,Parakou,Cybersécurité,870000,380000,11,2,77
+Mai,2025,Cotonou,Développement IA,2350000,984000,30,7,82
+Mai,2025,Porto-Novo,Cybersécurité,1410000,656000,18,4,80
+Mai,2025,Parakou,Formation IA,940000,410000,12,3,78
+Juin,2025,Cotonou,Cybersécurité,2250000,1008000,29,5,80
+Juin,2025,Porto-Novo,Formation IA,1350000,672000,17,3,78
+Juin,2025,Parakou,Développement IA,900000,420000,12,2,76
+Juillet,2025,Cotonou,Formation IA,2550000,1056000,32,8,84
+Juillet,2025,Porto-Novo,Développement IA,1530000,704000,20,5,82
+Juillet,2025,Parakou,Cybersécurité,1020000,440000,13,3,80
+Août,2025,Cotonou,Développement IA,2725000,1104000,35,9,85
+Août,2025,Porto-Novo,Cybersécurité,1635000,736000,21,5,83
+Août,2025,Parakou,Formation IA,1090000,460000,14,4,81
+Septembre,2025,Cotonou,Cybersécurité,2900000,1176000,37,10,86
+Septembre,2025,Porto-Novo,Formation IA,1740000,784000,22,6,84
+Septembre,2025,Parakou,Développement IA,1160000,490000,15,4,82
+Octobre,2025,Cotonou,Formation IA,3100000,1224000,40,11,88
+Octobre,2025,Porto-Novo,Développement IA,1860000,816000,24,7,86
+Octobre,2025,Parakou,Cybersécurité,1240000,510000,16,4,84
+Novembre,2025,Cotonou,Développement IA,3325000,1296000,43,12,90
+Novembre,2025,Porto-Novo,Cybersécurité,1995000,864000,26,8,88
+Novembre,2025,Parakou,Formation IA,1330000,540000,17,5,86
+Décembre,2025,Cotonou,Cybersécurité,3600000,1368000,48,15,92
+Décembre,2025,Porto-Novo,Formation IA,2160000,912000,28,9,90
+Décembre,2025,Parakou,Développement IA,1440000,570000,19,6,88
